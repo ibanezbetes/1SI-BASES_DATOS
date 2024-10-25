@@ -2,16 +2,16 @@
 <dia:persistence xmlns:dia="http://www.lysator.liu.se/~alla/dia/">
   <dia:window role="dia-main-window">
     <dia:attribute name="xpos">
-      <dia:int val="-8"/>
+      <dia:int val="761"/>
     </dia:attribute>
     <dia:attribute name="ypos">
-      <dia:int val="-8"/>
+      <dia:int val="0"/>
     </dia:attribute>
     <dia:attribute name="width">
-      <dia:int val="1536"/>
+      <dia:int val="766"/>
     </dia:attribute>
     <dia:attribute name="height">
-      <dia:int val="793"/>
+      <dia:int val="784"/>
     </dia:attribute>
     <dia:attribute name="isopen">
       <dia:boolean val="true"/>
@@ -36,8 +36,8 @@
   </dia:window>
   <dia:list role="recent-files">
     <dia:attribute name="listvalue">
-      <dia:string>#C:\Users\daniz\Documents\GitHub\1SI-BASES_DATOS\T1_ACCESS\EJERCICIOS TEMA 1\Ejercicio3.dia
-C:\Users\daniz\Documents\GitHub\1SI-BASES_DATOS\DiaPortable\Data\Ejercicio3.dia
+      <dia:string>#C:\Users\daniz\Documents\GitHub\1SI-BASES_DATOS\DiaPortable\Data\Ejercicio3.dia
+C:\Users\daniz\Documents\GitHub\1SI-BASES_DATOS\T1_ACCESS\EJERCICIOS TEMA 1\Ejercicio3.dia
 C:\Users\daniz\Documents\GitHub\1SI-BASES_DATOS\T1_ACCESS\EJERCICIOS TEMA 1\Ejercicio3Corregido
 C:\Users\daniz\Documents\GitHub\1SI-ENTORNOS_DESARROLLO\T1\Tema1Ejercicio3.dia
 C:\Users\daniz\Documents\DiaPortable\ENTORNOS DESARROLLO\ARRAY DE 6 ALEATORIA.dia
@@ -51,7 +51,7 @@ C:\Users\daniz\Downloads\Sandwitch ejemplo inicial.dia#</dia:string>
 Diagrama de flujo#</dia:string>
     </dia:attribute>
   </dia:list>
-  <dia:list role="diagram-tree-hidden-types">
+  <dia:list role="arrow-menu">
     <dia:attribute name="listvalue">
       <dia:string>##</dia:string>
     </dia:attribute>
@@ -66,7 +66,7 @@ Diagrama de flujo#</dia:string>
       <dia:string>##</dia:string>
     </dia:attribute>
   </dia:list>
-  <dia:list role="arrow-menu">
+  <dia:list role="diagram-tree-hidden-types">
     <dia:attribute name="listvalue">
       <dia:string>##</dia:string>
     </dia:attribute>
